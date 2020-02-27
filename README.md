@@ -1,4 +1,4 @@
-# Telefon Rehberi
+# Telephone Directory Application
 
 Çift bağlı liste (doubly linked list) veri yapısı kullanımına dayanan ve isme göre alfabetik sıralı bir telefon rehberi uygulaması geliştirilişmişr. Uygulama görsel bir arayüze de sahiptir.
 
